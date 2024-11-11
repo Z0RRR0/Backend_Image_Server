@@ -17,6 +17,12 @@ axios.get('/api/images')
 
   images.map((image) => {
 
+    const button = document.createElement('button')
+    button.innerText = image.name;
+
+    button.addEventListener('click', ()=>{
+      button.disabled = true;
+
     const div = document.createElement('div')
     const name = document.createElement('h3')
     const intro = document.createElement('p')
@@ -38,6 +44,9 @@ axios.get('/api/images')
     div.appendChild(picture)
 
     app.appendChild(div)
+    })
+    app.appendChild(button)
+    
 
   })
 
