@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "imageServer.js",
+  "scripts": {
+    "start": "node imageServer.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "env": "^0.0.2",
+    "express": "^4.21.1"
+  },
+  "type": "module"
+}
