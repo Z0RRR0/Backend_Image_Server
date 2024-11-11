@@ -4,6 +4,9 @@ URL, name, content etc of the characters from one of the most famous and my favo
 Then I just did this that I fetched all the API data using axios in the frontend side using VANILLLLLLA (Oh gosh!) and I'm 
 loving it.
 
+In this project buttons are added, now after clicking buttons have crew members name, they can get their image, role, content etc
+and same button cannot be pressed multiple times.
+
 
 
 IMP NOTES:
