@@ -1,7 +1,7 @@
 This is just for Practice Purpose, I just started learning Backend with vanilla JS (YeS YoU hEaRd It RiGhT)
 I love Vanilla JS so in this project I just created a backend server for an image API which stores the data of images
 URL, name, content etc of the characters from one of the most famous and my favourite anime (Shotout to One Piece).
-Then I just did this that I fetched all the API data using sxios in the frontend side using VANILLLLLLA (Oh gosh!) and I'm 
+Then I just did this that I fetched all the API data using axios in the frontend side using VANILLLLLLA (Oh gosh!) and I'm 
 loving it.
 
 
